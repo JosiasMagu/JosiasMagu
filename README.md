@@ -9,7 +9,7 @@ Contacto: josiasfernandomagumba@gmail.com | [LinkedIn](https://www.linkedin.com/
 ## Projectos
 
 **[ZUNO (backend)](https://github.com/JosiasMagu/Zuno_back)**
-Marketplace de aluguer de equipamentos com pagamento por M-Pesa. O dinheiro fica retido na plataforma (escrow) até o cliente confirmar a entrega, e o depósito só é devolvido depois da devolução do equipamento. Fiz a maior parte do backend, numa equipa de 3.
+Marketplace de aluguer de equipamentos com sistema de escrow: o valor fica retido na plataforma até o cliente confirmar a entrega. O pagamento por M-Pesa ainda não está integrado; nesta fase a confirmação é feita manualmente por um administrador. Fiz a maior parte do backend, numa equipa de 3.
 NestJS 11, Prisma, PostgreSQL, Socket.IO, Cloudinary, Docker.
 
 **[ZapFlow (frontend)](https://github.com/JosiasMagu/ZapFlow)**
