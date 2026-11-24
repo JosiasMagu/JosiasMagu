@@ -13,7 +13,7 @@ Plataforma de aluguer de equipamentos e serviços, feita para um cliente. O valo
 NestJS 11, Prisma, PostgreSQL, Socket.IO, Cloudinary, Docker. Mais de 1500 testes unitários e 600 de ponta a ponta, corridos no GitHub Actions.
 
 **[Zapflow (frontend)](https://github.com/JosiasMagu/ZapFlow)**
-Painel de um serviço de automação de WhatsApp para empresas. Trabalho no frontend desde Agosto de 2025: modelos de mensagem, fluxos de automação, permissões da equipa, métricas e parte da caixa de entrada. O repositório público guarda só os primeiros dias. O código actual está no repositório da empresa.
+Painel de um serviço de automação de WhatsApp para empresas. Trabalho no frontend desde Agosto de 2025. O repositório público guarda só os primeiros dias.
 React 19, TypeScript, Vite, Tailwind, Recharts.
 
 **[AgroFinanciamento](https://github.com/JosiasMagu/AgroFinanciamento)** e **[Rencontro](https://github.com/JosiasMagu/Rencontro)**
